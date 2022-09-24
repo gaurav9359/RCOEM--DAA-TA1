@@ -49,7 +49,7 @@ using namespace std;
      }
     }
   }
-  cout<<ans<<endl;
+  cout<<"sum of points inside selected points is : "<<ans<<endl;
     return 0;
 }
 
