@@ -1,0 +1,36 @@
+
+input 1:
+five_Dimensional_Point = { { 1, 1 }, { 4, 10}, { 10, 7 },{ 15, 3 }, { 20, 18 }};
+
+output:
+PS E:\daa_assignment> cd "e:\daa_assignment\" ; if ($?) { g++ DAA_TA1.cpp -o DAA_TA1 } ; if ($?) { .\DAA_TA1 }
+sum of points inside selected points is : 671
+
+
+input 2:
+five_Dimensional_Point = { { 1, 1 }, { 4, 10}, { 10, 7 },{ 13, 3 }, { 12, 9 }};
+
+output:
+PS E:\daa_assignment> cd "e:\daa_assignment\" ; if ($?) { g++ DAA_TA1.cpp -o DAA_TA1 } ; if ($?) { .\DAA_TA1 }
+sum of points inside selected points is : 317
+
+input 3:
+five_Dimensional_Point = { { 1, 3 }, { 4,5}, { 8, 7 },{ 9, 3 }, { 12, 12 }};
+
+output:
+PS E:\daa_assignment> cd "e:\daa_assignment\" ; if ($?) { g++ DAA_TA1.cpp -o DAA_TA1 } ; if ($?) { .\DAA_TA1 }
+sum of points inside selected points is : 132
+
+input 4: 
+five_Dimensional_Point = { { 5, 1 }, { 4, 4}, { 9, 7 },{ 3, 3 }, { 12, 12 }};
+
+output:
+PS E:\daa_assignment> cd "e:\daa_assignment\" ; if ($?) { g++ DAA_TA1.cpp -o DAA_TA1 } ; if ($?) { .\DAA_TA1 }
+sum of points inside selected points is : 65
+
+input 5:
+five_Dimensional_Point = { { 14, 1 }, { 14, 4}, { 9, 7 },{ 5, 3 }, { 6, 12 }};
+
+output:
+PS E:\daa_assignment> cd "e:\daa_assignment\" ; if ($?) { g++ DAA_TA1.cpp -o DAA_TA1 } ; if ($?) { .\DAA_TA1 }
+sum of points inside selected points is : 241
